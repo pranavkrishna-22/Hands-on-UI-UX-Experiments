@@ -6,6 +6,7 @@
 A curated collection of practical UI/UX experiments aimed at improving design thinking, prototyping skills, usability testing, and accessibility awareness.
 
 ---
+Pdf Link:https://lms2.cse.saveetha.in/pluginfile.php/51762/assignsubmission_file/submission_files/106420/CamScanner%2003-27-2025%2008.22.pdf?forcedownload=1
 
 ## Aim
 
